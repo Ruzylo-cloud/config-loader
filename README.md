@@ -1,4 +1,5 @@
 # config-loader
+![CI](https://github.com/FerrowAI/config-loader/actions/workflows/ci.yml/badge.svg)
 
 Layered configuration loader supporting JSON files and environment variables with dot-path access. Precedence: environment variables override JSON file values, which override defaults.
 
