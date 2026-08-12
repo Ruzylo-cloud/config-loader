@@ -1,0 +1,13 @@
+# config-loader
+> Layered configuration loader with JSON file and environment variable support
+
+Layered configuration loader supporting JSON files and environment variables with dot-path access. Precedence: environment variables override JSON file values, which override defaults. ```bash npm install config-loader
+
+## API
+- `ConfigLoaderOptions`
+- `ConfigLoader`
+
+## Install
+Each library is a standalone GitHub repo under github.com/Ruzylo-cloud.
+
+Part of the Ferrow open-source toolkit: https://github.com/Ruzylo-cloud/ferrow-toolkit — sponsored by https://ferrow.ai
