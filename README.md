@@ -6,7 +6,7 @@ Layered configuration loader supporting JSON files and environment variables wit
 ## Installation
 
 ```bash
-npm install config-loader
+npm install @ferrow/config-loader
 ```
 
 ## Quick Start

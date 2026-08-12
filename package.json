@@ -1,1 +1,23 @@
-{"name":"config-loader","version":"1.0.0","description":"Layered configuration loader with JSON file and environment variable support","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc"},"keywords":["config","configuration","environment","json","dot-path"],"author":"Ruzylo-cloud","license":"MIT","devDependencies":{"@types/node":"^26.2.0","typescript":"^7.0.2"}}
+{
+  "name": "@ferrow/config-loader",
+  "version": "1.0.0",
+  "description": "Layered configuration loader with JSON file and environment variable support",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "config",
+    "configuration",
+    "environment",
+    "json",
+    "dot-path"
+  ],
+  "author": "Ruzylo-cloud",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "typescript": "^7.0.2"
+  }
+}

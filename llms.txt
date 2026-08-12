@@ -1,4 +1,6 @@
 # config-loader
+
+Install: npm install @ferrow/config-loader
 > Layered configuration loader with JSON file and environment variable support
 
 Layered configuration loader supporting JSON files and environment variables with dot-path access. Precedence: environment variables override JSON file values, which override defaults.
